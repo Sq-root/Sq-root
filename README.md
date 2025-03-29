@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gaurav Davda</h1>
 <h3 align="center">Turning ideas into interactive and responsive web experiences.</h3>
+
 🌱 I’m currently learning Angular, React.js
 
 👨‍💻 All of my projects are available at [GitHub Profile](https://github.com/Sq-root)
